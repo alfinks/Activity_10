@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Maulana Alfiansyah/AndroidStudioProjects/Activity_9/app/src/main/res/layout/activity_esit_teman.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/Maulana Alfiansyah/AndroidStudioProjects/Activity_9/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Maulana Alfiansyah/AndroidStudioProjects/Activity_9/app/src/main/res/layout/activity_tambah_teman.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Maulana Alfiansyah/AndroidStudioProjects/Activity_9/app/src/main/res/layout/row_data_teman.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/Maulana Alfiansyah/AndroidStudioProjects/Activity_9/app/src/main/res/menu/menu.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Maulana Alfiansyah/AndroidStudioProjects/pam new/Activity_8.1/Activity_8.1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Maulana Alfiansyah/AndroidStudioProjects/pam new/Activity_8.1/Activity_8.1/app/src/main/res/layout/activity_tambah_teman.xml" value="0.1" />
+        <entry key="..\:/Users/Maulana Alfiansyah/AndroidStudioProjects/pam new/Activity_8.1/Activity_8.1/app/src/main/res/layout/row_data_teman.xml" value="0.1" />
+        <entry key="..\:/Users/Maulana Alfiansyah/AndroidStudioProjects/pam new/Activity_8.1/Activity_8.1/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
